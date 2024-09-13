@@ -6,8 +6,7 @@ Este é o frontend da aplicação To-Do List, desenvolvido em React. Ele fornece
 
 ## Requisitos
 
-- Node.js
-- Docker 
+- Node.js 
 
 ## Instruções para Instalação
 
